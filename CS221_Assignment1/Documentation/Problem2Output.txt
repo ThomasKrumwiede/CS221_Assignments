@@ -1,0 +1,38 @@
+Assingment 1 Problem 2:
+Note: every iteration through the list uses equals() in the loop, therefore it is being tested on every output
+
+Testing begin() and next() to iterate through the list
+postition_begin = 1
+postition_begin = 2
+postition_begin = 3
+postition_begin = 4
+postition_begin = 5
+postition_begin = 6
+
+Testing end() and previous() to iterate through the list
+End of the List
+position_end = 6
+position_end = 5
+position_end = 4
+position_end = 3
+position_end = 2
+
+Testing the insert() on the begining, middle and end of the linked list:
+postition_begin = 99
+postition_begin = 1
+postition_begin = 2
+postition_begin = 3
+postition_begin = 99
+postition_begin = 4
+postition_begin = 5
+postition_begin = 6
+postition_begin = 99
+
+Test the delete_node function by deleteing the nodes that were inserted:
+postition_begin = 1
+postition_begin = 2
+postition_begin = 3
+postition_begin = 99
+postition_begin = 4
+postition_begin = 5
+postition_begin = 6

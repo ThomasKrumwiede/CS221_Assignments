@@ -1,0 +1,54 @@
+The total ammount of change in the purse is: $0.84
+The total number of pennies in the purse is: 4
+The total number of nickels in the purse is: 2
+The total number of dimes in the purse is: 2
+The total number of quarters in the purse is: 2
+Quarter removed
+Quarter removed
+Nickle removed
+Penny removed
+Penny removed
+No exact change
+Payment is $0.57 , the new total ammount in the purse is : 0.27
+The total ammount of change in the purse is: $0.27
+The total number of pennies in the purse is: 2
+The total number of nickels in the purse is: 1
+The total number of dimes in the purse is: 2
+The total number of quarters in the purse is: 0
+
+Problem 1 Part B
+The total ammount of change in Purse1 is : $0.27
+The total ammount of change in Purse2 is : $0.34
+The total ammount of change in Purse3 is : $0.57
+The total ammount of change in Purse4 is : $0.71
+The total ammount of change in Purse5 is : $1.27
+The total ammount of change in Purse6 is : $0.28
+The total ammount in Purse1 is : $0.27
+The total ammount in Purse2 is : $0.28
+The total ammount in Purse3 is : $0.34
+The total ammount in Purse4 is : $0.57
+The total ammount in Purse5 is : $0.71
+The total ammount in Purse6 is : $1.27
+The total ammount in Purse1 is : $0.71
+The total ammount in Purse2 is : $0.27
+The total ammount in Purse3 is : $0.28
+The total ammount in Purse4 is : $0.57
+The total ammount in Purse5 is : $0.34
+The total ammount in Purse6 is : $1.27
+
+Problem 1 Part C
+Purse collection prior to the sort:
+Purse 1 has total money: $0.27
+Purse 2 has total money: $0.34
+Purse 3 has total money: $0.57
+Purse 4 has total money: $0.71
+Purse 5 has total money: $1.27
+Purse 6 has total money: $0.28
+
+Purse collection after the sort:
+Purse 1 has total money: $0.27
+Purse 2 has total money: $0.28
+Purse 3 has total money: $0.34
+Purse 4 has total money: $0.57
+Purse 5 has total money: $0.71
+Purse 6 has total money: $1.27

@@ -1,0 +1,12 @@
+Problem 3 part A:
+Test printLevel(0): E
+Test printLevel(1): BF
+Test printLevel(2): ACG
+Test printLevel(3):
+Problem 3 part B:
+A Problem3
+C Problem3
+B Problem3
+G Problem3
+F Problem3
+E Problem3
